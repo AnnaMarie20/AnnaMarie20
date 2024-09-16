@@ -9,7 +9,7 @@ I am currently in my senior year at Pensacola Christian College (PCC), majoring 
 My passion for technology has driven me to develop skills in several areas, including database management and software development methodologies like Agile/Scrum and DevOps. Currently, I am focusing on the database management side of my capstone project—a 'Plant Care' web application designed to help users track and care for their plants.
 
 <details>
-  <summary><strong>👩🏼‍💻 Technical Skills</strong></summary>
+  <summary><strong> Technical Skills👩🏼‍💻 </strong></summary>
 
 ### Database Management
 - **PL/SQL**
@@ -34,10 +34,10 @@ My passion for technology has driven me to develop skills in several areas, incl
 
 </details>
 
-##🪴 Capstone Project
+## 🪴 Capstone Project
 As part of my senior capstone project, my team and I are developing a 'Plant Care' web application. I am responsible for the database management aspect, ensuring smooth integration and performance on the backend.
 
-##⚡ Fun Fact
+## ⚡ Fun Fact
 In my spare time, I enjoy playing the piano—it helps me relax and recharge after a day of coding.
 
 ## 📫 How to Reach Me
