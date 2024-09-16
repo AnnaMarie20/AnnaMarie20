@@ -34,6 +34,7 @@ My passion for technology has driven me to develop skills in several areas, incl
 
 </details>
 
+
 ## 🪴 Capstone Project
 As part of my senior capstone project, my team and I are developing a 'Plant Care' web application. I am responsible for the database management aspect, ensuring smooth integration and performance on the backend.
 
