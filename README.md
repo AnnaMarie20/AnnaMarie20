@@ -9,7 +9,7 @@ I am currently in my senior year at Pensacola Christian College (PCC), majoring 
 My passion for technology has driven me to develop skills in several areas, including database management and software development methodologies like Agile/Scrum and DevOps. Currently, I am focusing on the database management side of my capstone project—a 'Plant Care' web application designed to help users track and care for their plants.
 
 <details>
-  <summary><strong>Technical Skills</strong></summary>
+  <summary><strong>👩🏼‍💻 Technical Skills</strong></summary>
 
 ### Database Management
 - **PL/SQL**
@@ -34,7 +34,7 @@ My passion for technology has driven me to develop skills in several areas, incl
 
 </details>
 
-##🌱 Capstone Project
+##🪴 Capstone Project
 As part of my senior capstone project, my team and I are developing a 'Plant Care' web application. I am responsible for the database management aspect, ensuring smooth integration and performance on the backend.
 
 ##⚡ Fun Fact
@@ -42,14 +42,3 @@ In my spare time, I enjoy playing the piano—it helps me relax and recharge aft
 
 ## 📫 How to Reach Me
 You can reach me at **anna@kinzels.com**.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
