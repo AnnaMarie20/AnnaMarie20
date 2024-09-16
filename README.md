@@ -38,7 +38,7 @@ My passion for technology has driven me to develop skills in several areas, incl
 As part of my senior capstone project, my team and I are developing a 'Plant Care' web application. I am responsible for the database management aspect, ensuring smooth integration and performance on the backend.
 
 ## ⚡ Fun Fact
-In my spare time, I enjoy playing the piano—it helps me relax and recharge after a day of coding.
+In my spare time, I enjoy playing the piano!
 
 ## 📫 How to Reach Me
 You can reach me at **anna@kinzels.com**.
